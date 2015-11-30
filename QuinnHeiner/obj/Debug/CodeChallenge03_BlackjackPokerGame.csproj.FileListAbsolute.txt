@@ -1,0 +1,6 @@
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_BlackjackPokerGame\bin\Debug\CodeChallenge03_BlackjackPokerGame.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_BlackjackPokerGame\bin\Debug\CodeChallenge03_BlackjackPokerGame.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_BlackjackPokerGame\bin\Debug\CodeChallenge03_BlackjackPokerGame.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_BlackjackPokerGame\obj\Debug\CodeChallenge03_BlackjackPokerGame.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_BlackjackPokerGame\obj\Debug\CodeChallenge03_BlackjackPokerGame.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_BlackjackPokerGame\obj\Debug\CodeChallenge03_BlackjackPokerGame.pdb
