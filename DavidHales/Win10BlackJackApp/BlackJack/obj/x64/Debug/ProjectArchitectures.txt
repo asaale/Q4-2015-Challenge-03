@@ -1,0 +1,1 @@
+C:\Source\Repos\BlackJack\BlackJack\BlackJack.csproj;x64
