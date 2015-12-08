@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Micah Wood :: Challenge 3</title>
+  <style>
+    .card {
+      width: 130px;
+      height: 200px;
+      border-radius: 4px;
+      border: 1px solid black;
+      display: inline-block;
+    }
+    .H, .D {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <div class="hand"></div>
+  <p>Your score: <span class="score"></span></p>
+  <button id="hit" onclick="game.hit()">Hit</button>
+  <button id="stay" onclick="game.stay()">Stay</button>
+  <div class="dealer"></div>
+  <p>Dealer score: <span class="dealer-score">?</span></p>
+
+  <script src="index.js"></script>
+  <script>
+    var game = new Game(new Deck());
+    game.deal();
+  </script>
+</body>
+</html>
