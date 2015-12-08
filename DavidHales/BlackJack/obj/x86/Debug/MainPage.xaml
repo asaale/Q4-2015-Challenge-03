@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="BlackJack.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BlackJack"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF144D03">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:ConnectionId='1' Grid.Row="0" Grid.ColumnSpan="2" x:Name="txtTitle" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="Black Jack" VerticalAlignment="Top" Foreground="#FF0B04A0" FontSize="64" RenderTransformOrigin="0.652,0.913"/>
+        <Button x:ConnectionId='2' Grid.Row="1" x:Name="btnBlackJack" Grid.ColumnSpan="2" Content="Play Now" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top" Height="41" Width="115"                            Background="{ThemeResource IMECandidateSecondaryForegroundThemeBrush}"/>
+        <TextBlock x:ConnectionId='3' Grid.Row="2" Grid.ColumnSpan="2" x:Name="txtTitle2" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="Poker" VerticalAlignment="Top" Foreground="#FF0B04A0" FontSize="64" RenderTransformOrigin="0.652,0.913"/>
+        <Button x:ConnectionId='4' Grid.Row="3" x:Name="btnPoker" Grid.ColumnSpan="2" Content="Play Now" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top" Height="41" Width="115"                        Background="{ThemeResource IMECandidateSecondaryForegroundThemeBrush}"/>
+    </Grid>
+</Page>
+
