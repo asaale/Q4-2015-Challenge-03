@@ -21,3 +21,9 @@ Blackjack is getting pretty boring.  Let’s also give the option to play a basi
 * You both are dealt 5 cards.  Unlike regular poker, to keep this version simple: 
 1) there will be no round of trading in cards.  A winner is immediately determined after the cards are dealt. 
 2) allow a tie if both of you have the same hand ranking (i.e. a pair of Kings and a pair of Aces would result in a tie)
+
+##Submission Instructions
+
+GitHub repo: https://github.com/STGCodeChallenges/Q4-2015-Challenge-03
+
+Google Form (to be filled out upon completion of challenge): https://docs.google.com/a/stgconsulting.com/forms/d/1wP2EJcrE3R6L1prUJsRT_hzcAJmSYcUtG2meUygrHgk/viewform?c=0&w=1&usp=mail_form_link
