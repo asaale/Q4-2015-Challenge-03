@@ -1,0 +1,6 @@
+C:\STG\CodeChallenges\Q4-2015-Challenge-03\AlexSaale\2015Challenge03-Blackjack\2015Challenge03-Blackjack\bin\Debug\2015Challenge03-Blackjack.exe.config
+C:\STG\CodeChallenges\Q4-2015-Challenge-03\AlexSaale\2015Challenge03-Blackjack\2015Challenge03-Blackjack\bin\Debug\2015Challenge03-Blackjack.exe
+C:\STG\CodeChallenges\Q4-2015-Challenge-03\AlexSaale\2015Challenge03-Blackjack\2015Challenge03-Blackjack\bin\Debug\2015Challenge03-Blackjack.pdb
+C:\STG\CodeChallenges\Q4-2015-Challenge-03\AlexSaale\2015Challenge03-Blackjack\2015Challenge03-Blackjack\obj\Debug\2015Challenge03-Blackjack.csprojResolveAssemblyReference.cache
+C:\STG\CodeChallenges\Q4-2015-Challenge-03\AlexSaale\2015Challenge03-Blackjack\2015Challenge03-Blackjack\obj\Debug\2015Challenge03-Blackjack.exe
+C:\STG\CodeChallenges\Q4-2015-Challenge-03\AlexSaale\2015Challenge03-Blackjack\2015Challenge03-Blackjack\obj\Debug\2015Challenge03-Blackjack.pdb
